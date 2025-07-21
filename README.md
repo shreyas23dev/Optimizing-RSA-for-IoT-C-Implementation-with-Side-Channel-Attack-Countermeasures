@@ -3,11 +3,11 @@ This project presents a secure and optimized RSA cryptographic algorithm impleme
 
 ## This project focuses on enhancing traditional RSA cryptography by:
 
-  ## >Implementing constant-time algorithms to reduce timing attack vulnerabilities,
+  >Implementing constant-time algorithms to reduce timing attack vulnerabilities,
 
-  ## >Using masking and randomized exponentiation to obfuscate sensitive operations,
+  >Using masking and randomized exponentiation to obfuscate sensitive operations,
 
-  ## >Improving efficiency for resource-constrained environments,
+  >Improving efficiency for resource-constrained environments,
 
-  ## >Benchmarking performance against higher-level languages (Python, Java).
+  >Benchmarking performance against higher-level languages (Python, Java).
 
